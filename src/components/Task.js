@@ -32,12 +32,7 @@ export class Task extends Component   {
         this.props.changeTask(inputVal, id);
       }
 
-      TaskDone() {
 
-      }
-
-    
-      
     render() {
 
         let TextStatus;
